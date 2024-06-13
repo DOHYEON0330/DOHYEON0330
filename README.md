@@ -38,7 +38,7 @@ Languages
 - 좋은 개발 문서 작성 방법에 대해 알고 싶어요!
 
 ## 📫 연락 방법
-- **이메일:** [dhkim0330@gmail.com]
+- **E-mail:** [dhkim0330@gmail.com]
 - **GitHub:** [https://github.com/DOHYEON0330]
 
 ## ⚡ Fun fact
