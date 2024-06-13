@@ -1,4 +1,5 @@
-##안녕하세요👋
+#####안녕하십니까 😊
+###세명대학교 스마트IT학부 김도현입니다
 
 <!--
 **DOHYEON0330/DOHYEON0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
